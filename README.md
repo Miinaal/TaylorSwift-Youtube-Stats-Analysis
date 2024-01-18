@@ -11,6 +11,7 @@ Predicting view counts of Taylor Swift's YouTube videos using NLP and embeddings
 Explore the Jupyter Notebook or run predictive models.
 
 ## Power BI Dashboard
-![image]("https://github.com/Miinaal/TaylorSwift-Youtube-Stats-Analysis/assets/133162574/85d179db-3388-47a1-bd91-a65a8675b2a9">)
+
+<img width="579" alt="Tay" src="https://github.com/Miinaal/TaylorSwift-Youtube-Stats-Analysis/assets/133162574/dc380bdb-a50c-40c8-8108-402641b3e7ec">
 
 Feel free to contribute and enjoy exploring the insights!
